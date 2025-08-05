@@ -1,18 +1,18 @@
 # Academic Subject Performance Sheet 📘
 
-This is a simple Excel-based project I created to analyze the academic performance of students across five subjects. The goal was to build an **automated report card** that not only calculates totals and averages but also visualizes the data through graphs and highlights using conditional formatting.
+This is an Excel-based project developed to analyze the academic performance of students across five subjects. The objective was to create an **automated report card** that calculates totals, averages, grades, and ranks, and presents the data visually using charts and conditional formatting.
 
 ---
 
 ## ✨ Objective
 
-To create an easy-to-use performance sheet that automatically calculates marks, grades, and ranks, and represents them visually using charts.
+To design an easy-to-use performance sheet that automatically computes key academic metrics and represents them visually for clear and effective analysis.
 
 ---
 
 ## 🧰 Tools Used
 
-- Microsoft Excel
+- **Microsoft Excel**
   - Formulas
   - Conditional Formatting
   - Charts (Bar, Pie, Column)
@@ -23,13 +23,13 @@ To create an easy-to-use performance sheet that automatically calculates marks, 
 
 - Entered marks of 15 students across 5 subjects
 - Used Excel formulas to calculate:
-  - Total marks
+  - Total Marks
   - Average
   - Percentage
   - Grade
   - Rank
-- Applied conditional formatting to make low and high scores stand out
-- Created three types of charts for better analysis:
+- Applied conditional formatting to highlight high and low scores
+- Created charts for:
   - Subject-wise comparison
   - Total marks per student
   - Grade distribution
@@ -38,14 +38,16 @@ To create an easy-to-use performance sheet that automatically calculates marks, 
 
 ## 🎯 Outcome
 
-At the end, I had a clean, colorful, and fully-automated report card that clearly shows how each student is performing, both in numbers and visually. It's simple but really effective.
+The final output is a clean, visually appealing, and fully automated report card that provides a clear understanding of student performance both numerically and graphically.
 
 ---
 
-## 📁 Files in this Project
+## 📁 Files in this GitHub Repository
 
-- `Academic_Subject_Performance_Sheet.xlsx` – The main Excel report
-- `Presentation.pptx` – My project presentation with explanation and screenshots
+- `Academic_Subject_Performance_Sheet.xlsx` – The main Excel file
+- `README.md` – This documentation file
+
+> ⚠️ **Note:** The project presentation has been submitted separately on the HCL GUVI platform in **PDF format** as per the submission requirements.
 
 ---
 
@@ -55,4 +57,4 @@ At the end, I had a clean, colorful, and fully-automated report card that clearl
 
 ---
 
-Thanks for checking this out!
+Thank you for visiting this project!
